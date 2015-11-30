@@ -1,0 +1,3 @@
+/*
+Verify proper paths are set
+*/
